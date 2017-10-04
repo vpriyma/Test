@@ -1,0 +1,45 @@
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation qa
+DEBUG - Click Search
+DEBUG - Click on the first link in Search result
+DEBUG - Test1 is FAILED! Title doesn't contain title automation qa Error:   Expected: True
+  But was:  False
+10/4/2017 1:37:43 PM
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation
+DEBUG - Click Search
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation
+DEBUG - Click Search
+DEBUG - Click on the first link in Search result
+INFO - Test1 is PASSED.
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation
+DEBUG - Click Search
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation
+DEBUG - Click Search
+INFO - Check page #1
+DEBUG - False
+INFO - Check page #2
+DEBUG - False
+INFO - Check page #3
+DEBUG - False
+INFO - Check page #4
+DEBUG - False
+INFO - Check page #5
+DEBUG - False
+INFO - Start Test1
+DEBUG - Go to https://www.google.com.ua/
+DEBUG - Clear Search field
+DEBUG - SendKeys: automation
+DEBUG - Click Search
+DEBUG - Click on the first link in Search result
+DEBUG - Test1 is FAILED! Title doesn't contain title automation Error:   Expected: True
+  But was:  False
+10/4/2017 2:34:54 PM
