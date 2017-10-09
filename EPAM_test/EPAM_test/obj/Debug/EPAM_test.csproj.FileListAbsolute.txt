@@ -26,3 +26,17 @@ D:\EPAM_test\EPAM_test\EPAM_test\bin\Debug\WebDriver.Support.xml
 D:\EPAM_test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.csprojResolveAssemblyReference.cache
 D:\EPAM_test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.dll
 D:\EPAM_test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.pdb
+D:\Test\EPAM_test\EPAM_test\bin\Debug\EPAM_test.dll.config
+D:\Test\EPAM_test\EPAM_test\bin\Debug\EPAM_test.dll
+D:\Test\EPAM_test\EPAM_test\bin\Debug\EPAM_test.pdb
+D:\Test\EPAM_test\EPAM_test\bin\Debug\log4net.dll
+D:\Test\EPAM_test\EPAM_test\bin\Debug\nunit.framework.dll
+D:\Test\EPAM_test\EPAM_test\bin\Debug\WebDriver.dll
+D:\Test\EPAM_test\EPAM_test\bin\Debug\WebDriver.Support.dll
+D:\Test\EPAM_test\EPAM_test\bin\Debug\log4net.xml
+D:\Test\EPAM_test\EPAM_test\bin\Debug\nunit.framework.xml
+D:\Test\EPAM_test\EPAM_test\bin\Debug\WebDriver.xml
+D:\Test\EPAM_test\EPAM_test\bin\Debug\WebDriver.Support.xml
+D:\Test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.csprojResolveAssemblyReference.cache
+D:\Test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.dll
+D:\Test\EPAM_test\EPAM_test\obj\Debug\EPAM_test.pdb
